@@ -32,5 +32,6 @@ git clone https://github.com/BrayanR03/PythonSqlPoyecto.git
 2️⃣ Instala las dependencias necesarias:
 pip install pandas plotly sqlalchemy
 
-3️⃣ Conéctate a SQL Server y ejecuta las consultas del archivo .sql
+3️⃣ Conéctate a SQL Server (Cambias las credenciales dentro de Python por las de tu SQL SERVER)
+    y ejecuta las consultas del archivo .sql
 4️⃣ Abre Jupyter Notebook y explora las visualizaciones interactivas
