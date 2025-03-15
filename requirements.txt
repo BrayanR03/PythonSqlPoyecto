@@ -1,0 +1,7 @@
+# Instalación Individual
+pip install pandas
+pip install sqlalchemy
+pip install plotly
+
+# Instalación Grupal
+pip install pandas sqlalchemy plotly
