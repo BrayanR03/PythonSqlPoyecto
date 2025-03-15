@@ -25,10 +25,12 @@ Este proyecto combina el poder de SQL Server para extraer y analizar datos con l
 
 
 🖥️ Cómo Ejecutar el Proyecto
+
 1️⃣ Clona este repositorio:
+git clone https://github.com/BrayanR03/PythonSqlPoyecto.git
 
 2️⃣ Instala las dependencias necesarias:
-
+pip install pandas plotly sqlalchemy
 
 3️⃣ Conéctate a SQL Server y ejecuta las consultas del archivo .sql
 4️⃣ Abre Jupyter Notebook y explora las visualizaciones interactivas
